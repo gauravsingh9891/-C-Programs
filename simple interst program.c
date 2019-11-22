@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-main(mamin)
+main(void)
 { int p,r,t,SI;
   printf("Please Enter the price :");
   scanf("%d",&p);
