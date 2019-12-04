@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-main(void)
+main()
 {
 	float a=10.5,b=6.3,sum,sub,multi,divide;
     sum=a+b;
