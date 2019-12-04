@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-main(void)
+main()
 {
   int a, square;
   printf("Please enter the number :");
