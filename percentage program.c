@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-main(void)
+main()
 {
   float a,b,p;
   printf("Please Enter the outcome :");
