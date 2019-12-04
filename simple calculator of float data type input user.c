@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-main(void)
+main()
 {
 	float a,b,sum,sub,divide,multiplication;
 	printf("Please Enter the first number :");
